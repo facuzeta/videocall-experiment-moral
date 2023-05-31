@@ -49,5 +49,8 @@ Each row corresponds to the values of the metrics of each dyad.
 - Columns "AI" to "AK" show the speech rate for each acoustic-prosodic variable measured (synchrony, convergence, and proximity).
 
 
+## Audos dataset
+Audios files are available on request due to privacy/ethical restrictions
+
 
 
